@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Math&display=swap');
 
 :root {
     --cor-destaque: #ED145B;
@@ -8,7 +8,9 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: Montserrat;
+  font-family: "Libertinus Math", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 
 body {
